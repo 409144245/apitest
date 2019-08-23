@@ -1,0 +1,5 @@
+[
+  "test_approval_by_po.py::TestApprovalByPO::()::test_get_access_token",
+  "test_approval_by_po.py::TestApprovalByPO::()::test_get_access_token_by_parameters",
+  "test_approval_by_po.py::TestApprovalByPO::()::test_no_get_access_token"
+]
